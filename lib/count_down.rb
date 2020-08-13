@@ -4,6 +4,6 @@ count = 10
 while count =< 10  && count != exit_number do
   puts count
   count -= 1 
-else
-  puts "Happy New Year!"
+end
+puts "Happy New Year!"
   
